@@ -1,0 +1,24 @@
+{
+  "name": "experiment-dljs-ase-nodejs",
+  "version": "0.0.0-0",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compulim/experiment-dljs-ase-nodejs.git"
+  },
+  "author": "William Wong (https://github.com/compulim)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compulim/experiment-dljs-ase-nodejs/issues"
+  },
+  "homepage": "https://github.com/compulim/experiment-dljs-ase-nodejs#readme",
+  "dependencies": {
+    "botframework-directlinejs": "^0.15.1",
+    "node-fetch": "^3.3.0"
+  }
+}
